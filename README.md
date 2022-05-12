@@ -1,4 +1,4 @@
-#C - Simple shell
+# C - Simple shell
 ---
 ![alt text](images/shell.jpeg)
 ## Learning Objectives
