@@ -18,7 +18,7 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - How to execute another program with the execve system call
 - How to suspend the execution of a process until one of its children terminates
 - What is EOF / “end-of-file”?
-## Mandatory Tasks
+### Mandatory Tasks
 1. Task 1 - Write a beautiful code that passes the Betty checks
 1. Task 2 - Write a UNIX command line interpreter.
 1. Task 3 - Simple shell 0.1 +
